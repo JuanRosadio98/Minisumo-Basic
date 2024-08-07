@@ -1,1 +1,5 @@
+- Esquematico
+- Bottom Layer para imprimir
+- Lista de materiales (BOM)
+- Archivos de fabricacion (Gerbers)
 
