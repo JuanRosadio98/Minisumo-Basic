@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32_RC_MOD_V1.PcbDoc   7/08/2024  14:29:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : _PCB PN_.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.8mm (31mil)                                             Round             6         PTH        19.40mm (0.76inch)
+T2      0.9mm (35mil)                                             Round             2         PTH        5.00mm (0.20inch)
+T3      1mm (39mil)                                               Round             12        PTH        52.50mm (2.07inch)
+T4      1.02mm (40mil)                                            Round             21        PTH        65.08mm (2.56inch)
+T5      1.1mm (43mil)                                             Round             46        PTH        157.72mm (6.21inch)
+T6      1.5mm (59mil)                                             Round             6         PTH        29.00mm (1.14inch)
+T7      3.2mm (126mil)                                            Round             4         PTH        249.19mm (9.81inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              97
+
+Total Processing Time (hh:mm:ss) : 00:00:00

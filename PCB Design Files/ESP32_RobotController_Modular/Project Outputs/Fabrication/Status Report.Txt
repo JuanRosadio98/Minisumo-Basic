@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ESP32_RC_MOD_V1.PcbDoc]
+   Generated File[_PCB PN_.TXT]
+   Generated File[_PCB PN_.LDP]
+   Generated File[_PCB PN_.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:29:06 On 7/08/2024
