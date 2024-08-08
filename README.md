@@ -3,5 +3,6 @@ Robot Minisumo basado en ESP32 y driver TB6612FNG para principiantes en robotica
 
 DIAGRAMA DE BLOQUES DE COMPONENTES DEL ROBOT
 
-![image](https://github.com/user-attachments/assets/95118273-d520-47e1-9d5c-96633211388b)
+![image](https://github.com/user-attachments/assets/ac4f7312-1100-496d-901c-7203b33eecce)
+
 
