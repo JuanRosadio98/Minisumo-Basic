@@ -1,4 +1,4 @@
-# Minisumo-Basic
+# Minisumo Nivel Senior
 Robot Minisumo basado en ESP32 y driver TB6612FNG para principiantes en robotica de competencia
 
 DIAGRAMA DE BLOQUES DE COMPONENTES DEL ROBOT
