@@ -22,16 +22,7 @@ int ir_star = 0;
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
-  pinMode(SENSOR_1, INPUT);
-  pinMode(SENSOR_2, INPUT);
-  pinMode(SENSOR_3, INPUT);
-  pinMode(SENSOR_4, INPUT);
-  pinMode(SENSOR_5, INPUT);
-
-  pinMode(QTR_1, INPUT);
-  pinMode(QTR_2, INPUT);
-
-  pinMode(IR_STAR, INPUT);
+  Sensors_Init();
 
   pinMode(USER_LED, OUTPUT);
 }
@@ -81,4 +72,17 @@ void Sensors_Read(void) {
   qtr_d = digitalRead(QTR_2);
 
   ir_star = digitalRead(IR_STAR);
+}
+
+void Sensors_Init(void) {
+  pinMode(SENSOR_1, INPUT);
+  pinMode(SENSOR_2, INPUT);
+  pinMode(SENSOR_3, INPUT);
+  pinMode(SENSOR_4, INPUT);
+  pinMode(SENSOR_5, INPUT);
+
+  pinMode(QTR_1, INPUT);
+  pinMode(QTR_2, INPUT);
+
+  pinMode(IR_STAR, INPUT);
 }
